@@ -1,3 +1,5 @@
 eclipse.preferences.version=1
-encoding//User/main.c=GBK
+encoding//user/ch32x035_it.c=GBK
+encoding//user/ch32x035_it.h=GBK
+encoding//vendor/ch32x035.h=GBK
 encoding/<project>=UTF-8
